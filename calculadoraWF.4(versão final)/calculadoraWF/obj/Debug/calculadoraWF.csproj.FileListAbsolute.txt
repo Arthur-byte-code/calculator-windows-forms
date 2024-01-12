@@ -1,0 +1,60 @@
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.Form1.resources
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.Form1.resources
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\copia\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.pdb
+C:\Users\Professor\Downloads\calculadoraWF\calculadoraWF\obj\Debug\calculadoraWF.btn_poten.resources
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.btn_poten.resources
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF2\calculadoraWF\obj\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.btn_poten.resources
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\calculadoraWF3\calculadoraWF\obj\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\bin\Debug\calculadoraWF.exe.config
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\bin\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\bin\Debug\calculadoraWF.pdb
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.btn_poten.resources
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.Properties.Resources.resources
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.exe
+C:\Users\Professor\Desktop\Arthur Henrique\calculadoraWF.4(versão final)\calculadoraWF\obj\Debug\calculadoraWF.pdb
