@@ -16,6 +16,20 @@ Este projeto consiste em uma calculadora simples desenvolvida utilizando a tecno
 6. **Apagar:** Remove o último dígito inserido no visor.
 7. **Raiz Quadrada:** Calcula a raiz quadrada do número exibido no visor.
 8. **Potência Quadrada:** Calcula a potência quadrada do número exibido no visor.
+   **Four Operations Calculator, Square Root, and Square Power (Windows Forms)**
+
+# Description:
+This project is a simple calculator developed using the Windows Forms technology. The application performs the four basic operations (addition, subtraction, multiplication, and division), in addition to offering additional functionalities such as clearing the display, deleting the last digit, calculating the square root, and square power.
+
+# Features:
+1. **Addition:** Performs the addition operation between two numbers.
+2. **Subtraction:** Performs the subtraction operation between two numbers.
+3. **Multiplication:** Performs the multiplication operation between two numbers.
+4. **Division:** Performs the division operation between two numbers.
+5. **Clearance:** Clears the calculator display, allowing for a new operation.
+6. **Delete:** Removes the last digit entered on the display.
+7. **Square Root:** Calculates the square root of the number displayed on the screen.
+8. **Square Power:** Calculates the square power of the number displayed on the screen.
 
 
 
